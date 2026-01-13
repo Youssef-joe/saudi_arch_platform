@@ -1,0 +1,14 @@
+Collecting requests
+  Using cached requests-2.32.5-py3-none-any.whl.metadata (4.9 kB)
+Collecting charset_normalizer<4,>=2 (from requests)
+  Downloading charset_normalizer-3.4.4-cp314-cp314-win_amd64.whl.metadata (38 kB)
+Requirement already satisfied: idna<4,>=2.5 in c:\users\user\desktop\info projects\demo\demo\.venv\lib\site-packages (from requests) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in c:\users\user\desktop\info projects\demo\demo\.venv\lib\site-packages (from requests) (2.6.3)
+Collecting certifi>=2017.4.17 (from requests)
+  Downloading certifi-2026.1.4-py3-none-any.whl.metadata (2.5 kB)
+Using cached requests-2.32.5-py3-none-any.whl (64 kB)
+Downloading charset_normalizer-3.4.4-cp314-cp314-win_amd64.whl (107 kB)
+Downloading certifi-2026.1.4-py3-none-any.whl (152 kB)
+Installing collected packages: charset_normalizer, certifi, requests
+
+Successfully installed certifi-2026.1.4 charset_normalizer-3.4.4 requests-2.32.5

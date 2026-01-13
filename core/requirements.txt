@@ -1,0 +1,11 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+pydantic==2.9.2
+python-multipart==0.0.9
+reportlab==4.2.2
+numpy==2.1.1
+prometheus-client==0.20.0
+PyYAML==6.0.2
+pdfplumber==0.11.4
+pypdf==5.1.0
+requests==2.32.3

@@ -1,0 +1,1126 @@
+{
+  "version": "3.1.1",
+  "updated": "2025-10-15T21:09:37.284275Z",
+  "source_policy": "Official-first (KSCAU + Saudipedia + UNESCO)",
+  "entries": [
+    {
+      "pattern_code": "najdi_central",
+      "name_ar": "العمارة النجدية (المركزية)",
+      "name_en": "Central Najdi Architecture",
+      "regions_ar": "الرياض، الدرعية (الطريف)، القصيم، سدير، الوشم",
+      "climate_terrain_ar": "داخلية صحراوية جافة؛ حرارة نهارية عالية وتباين حراري موسمي؛ رياح وغبار",
+      "materials_ar": [
+        "طين/لبن",
+        "جص أبيض",
+        "حجر جيري محلي",
+        "أخشاب الأثل/النخل للأسقف"
+      ],
+      "key_elements_ar": [
+        "الأفاريز والشرفات المسننة (حقاف/شُرُف)",
+        "فتحات صغيرة مثلثة/مستطيلة (فُرَج/لُهُوج)",
+        "فناء داخلي + ليوان",
+        "أبواب خشبية بزخارف هندسية"
+      ],
+      "development_styles_ar": {
+        "traditional": "كتل طينية سميكة بفتحات محدودة؛ أفاريز مسننة؛ أفنية داخلية وليوان.",
+        "transitional": "خرسانة/طوب مع تلبيس ترابي/جصي؛ إيقاع فتحات نجدي محافظ؛ أسقف مستوية بعوارض خشبية ظاهرة.",
+        "contemporary": "تجريد كتلي بلون ترابي، فتحات عميقة، استلهام الشُرَف واللُّهُوج في تظليل حديث."
+      },
+      "public_realm_ar": "أزقّة ضيقة مظللة؛ مداخل نحو أفنية؛ ساحات صغيرة للجوار",
+      "signage_guidelines_ar": "لوحات هادئة منخفضة الإضاءة؛ خط عربي بسيط؛ ألوان ترابية",
+      "color_palette_hex": [
+        "#E2C9A5",
+        "#C2A079",
+        "#7D6040",
+        "#FFFFFF"
+      ],
+      "facade_opening_ratio_hint": "منخفض (≈10–20%) بفتحات عميقة",
+      "height_control_hint": "2–3 طوابق سياقية",
+      "program_fit_ar": [
+        "سكني",
+        "ضيافة",
+        "ثقافي",
+        "تجاري محلي"
+      ],
+      "precedents": [
+        {
+          "name": "حي الطريف بالدرعية (UNESCO)",
+          "url": "https://whc.unesco.org/en/list/1329/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "At‑Turaif District in ad‑Dir'iyah — UNESCO WHC",
+          "url": "https://whc.unesco.org/en/list/1329/"
+        },
+        {
+          "title": "Central Najdi — Low-rise Handbook (PDF)",
+          "url": "https://architsaudi.dasc.gov.sa/sites/default/files/design-direrctions/central-najdi-architecture/03-HB_LowR-Central_Najdi-Eng-v3.pdf"
+        }
+      ]
+    },
+    {
+      "pattern_code": "hejazi_coastal",
+      "name_ar": "العمارة الحجازية الساحلية",
+      "name_en": "Coastal Hejazi Architecture",
+      "regions_ar": "جدة (البلد)، مكة، المدينة، ينبع",
+      "climate_terrain_ar": "ساحل البحر الأحمر — حار رطب؛ نسيم بحري؛ كثافة عمرانية رأسيّة تاريخيًا",
+      "materials_ar": [
+        "حجر مرجاني/بحري",
+        "أخشاب للرواشين",
+        "بياض جصي/كِلسي"
+      ],
+      "key_elements_ar": [
+        "الرواشين (مشربيات خشبية بارزة)",
+        "واجهات عمودية متعددة الطوابق",
+        "أرضيات تجارية",
+        "ممرات وأسواق مظللة"
+      ],
+      "development_styles_ar": {
+        "traditional": "مداميك حجر مرجاني وجص أبيض؛ رواشين بارزة؛ تكوين رأسي؛ سفلي تجاري.",
+        "transitional": "هياكل حديثة مع شبكات خشبية/معدنية مستلهمة من الرواشين؛ فتحات عميقة.",
+        "contemporary": "تظليل متحرك مستلهم من الرواشين؛ كتل بيضاء/رملية؛ تفاصيل خشبية دافئة."
+      },
+      "public_realm_ar": "أزقة وأسواق مظللة، اتصال بالميناء، ساحات صغيرة حول المساجد والأسواق",
+      "signage_guidelines_ar": "لوحات خطية خفيفة؛ تثبيت دون حجب الرواشين؛ خامات خشبية/معدنية غير لامعة",
+      "color_palette_hex": [
+        "#FFFFFF",
+        "#E9E0D0",
+        "#8B5A2B",
+        "#3F6B82"
+      ],
+      "facade_opening_ratio_hint": "متوسط (≈20–35%) عبر رواشين مظللة",
+      "height_control_hint": "3–4 طوابق تاريخيًا داخل النسيج التجاري",
+      "program_fit_ar": [
+        "سكن حضري",
+        "تجاري/سياحي",
+        "ضيافة",
+        "ثقافي"
+      ],
+      "precedents": [
+        {
+          "name": "Historic Jeddah (UNESCO)",
+          "url": "https://whc.unesco.org/en/list/1361/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Historic Jeddah, the Gate to Makkah — UNESCO WHC",
+          "url": "https://whc.unesco.org/en/list/1361/"
+        },
+        {
+          "title": "Al‑Rawashin — Saudipedia",
+          "url": "https://saudipedia.com/en/article/530/culture/cultural-affairs/al-rawashin"
+        }
+      ]
+    },
+    {
+      "pattern_code": "eastern_coast",
+      "name_ar": "عمارة الساحل الشرقي",
+      "name_en": "Eastern Coast Architecture",
+      "regions_ar": "الدمام، الجبيل، دارين، القطيف، الخبر",
+      "climate_terrain_ar": "ساحل الخليج — حرارة ورطوبة صيفية؛ رياح بحرية وملوحة",
+      "materials_ar": [
+        "حجر جيري (فروش)",
+        "حجر بحري/مرجاني ساحلي",
+        "طين/لبن داخلي",
+        "جريد نخيل/عريش للأسقف"
+      ],
+      "key_elements_ar": [
+        "واجهات بيضاء فاتحة",
+        "أفنية داخلية",
+        "أسقف بجذوع النخل (عريش)",
+        "فتحات غائرة"
+      ],
+      "development_styles_ar": {
+        "traditional": "حجر جيري/بحري مطلي بالبياض؛ أفنية؛ أسقف عريش؛ تكوينات بسيطة.",
+        "transitional": "خرسانة/طوب مكسو؛ ضبط فتحات غائرة؛ عناصر تظليل مستوحاة.",
+        "contemporary": "كتل بيضاء/رملية بظلال عميقة؛ مصاطب وممرات بحرية؛ تفاصيل خشبية."
+      },
+      "public_realm_ar": "ممرات بحرية وساحات عامة مع ظلال؛ أسواق قرب المرافئ",
+      "signage_guidelines_ar": "لوحات بسيطة متباينة على البياض؛ مواد مقاومة للملوحة؛ إضاءة هادئة",
+      "color_palette_hex": [
+        {
+          "hex": "#F7F7F2",
+          "label": "Limewash white"
+        },
+        {
+          "hex": "#E3D7B7",
+          "label": "Faroush limestone"
+        },
+        {
+          "hex": "#7A5C3B",
+          "label": "Palm wood"
+        },
+        {
+          "hex": "#2A6F97",
+          "label": "Gulf blue"
+        }
+      ],
+      "facade_opening_ratio_hint": "منخفض–متوسط (≈15–30%) بفتحات غائرة",
+      "height_control_hint": "2–3 طوابق تاريخيًا؛ زيادات بتراجعات حديثة",
+      "program_fit_ar": [
+        "سكني",
+        "ضيافة ساحلية",
+        "تجاري",
+        "ترفيهي"
+      ],
+      "precedents": [
+        {
+          "name": "أحياء تاريخية ساحلية (دارين/القطيف)",
+          "url": "https://saudipedia.com/en/article/3161/culture/cultural-affairs/traditional-architecture-in-the-eastern-province"
+        }
+      ],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Traditional architecture — Eastern Province",
+          "url": "https://saudipedia.com/en/article/3161/culture/cultural-affairs/traditional-architecture-in-the-eastern-province"
+        },
+        {
+          "title": "Styles in the Eastern Province — Saudipedia",
+          "url": "https://saudipedia.com/en/article/3489/society/household-items/list-of-traditional-architectural-styles-in-the-eastern-province"
+        }
+      ]
+    },
+    {
+      "pattern_code": "asir_escarpment",
+      "name_ar": "عمارة أصدَار عسير (السفوح)",
+      "name_en": "Aseer Slopes Architecture",
+      "regions_ar": "منحدرات عسير (الأصدار) بين السراة وتهامة",
+      "climate_terrain_ar": "سفوح جبلية؛ أمطار موسمية ورياح؛ اعتدال نسبي",
+      "materials_ar": [
+        "حجر بازلتي محلي",
+        "طين/جص للربط",
+        "أخشاب محدودة"
+      ],
+      "key_elements_ar": [
+        "كتل حجرية سميكة متدرجة",
+        "نوافذ صغيرة",
+        "ألواح رِقاف على الحواف",
+        "قصبات/أبراج موضعية"
+      ],
+      "development_styles_ar": {
+        "traditional": "مبانٍ حجرية متينة بفتحات صغيرة؛ استخدام رِقاف؛ تراسات على السفوح.",
+        "transitional": "هياكل حديثة مع كسوة حجرية؛ فتحات عميقة؛ دمج المصاطب.",
+        "contemporary": "تكوينات كتلية على طبقات؛ واجهات حجرية مهواة؛ احترام خطوط الكنتور."
+      },
+      "public_realm_ar": "ممرات درج ومصاطب حجرية؛ فضاءات محلية صغيرة؛ مسارات تراثية",
+      "signage_guidelines_ar": "أحجام محدودة؛ مواد حجرية/معدنية غير لامعة؛ عدم حجب الزخارف",
+      "color_palette_hex": [
+        "#3B3B3B",
+        "#5A4E46",
+        "#D9D4CA",
+        "#FFFFFF"
+      ],
+      "facade_opening_ratio_hint": "منخفض (≈10–20%)",
+      "height_control_hint": "تدرّج بحسب السفح (2–4 طوابق)",
+      "program_fit_ar": [
+        "سكن جبلي",
+        "نُزل تراثية",
+        "ثقافي/متحفي",
+        "ترفيه طبيعي"
+      ],
+      "precedents": [
+        {
+          "name": "قرية رجال ألمع",
+          "url": "https://whc.unesco.org/en/tentativelists/6640/"
+        }
+      ],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Al‑Qatt Al‑Asiri — UNESCO ICH",
+          "url": "https://ich.unesco.org/en/RL/al-qatt-al-asiri-female-traditional-interior-wall-decoration-in-asir-saudi-arabia-01261"
+        }
+      ]
+    },
+    {
+      "pattern_code": "tabuk_coast",
+      "name_ar": "عمارة ساحل تبوك",
+      "name_en": "Tabuk Coast Architecture",
+      "regions_ar": "تبوك الساحلية",
+      "climate_terrain_ar": "ساحلي حار‑رطب؛ تأثيرات بحرية",
+      "materials_ar": [
+        "حجر بحري/لياسة بيضاء"
+      ],
+      "key_elements_ar": [
+        "رواشين/مشربيات",
+        "فتحات ظلّ عميقة"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#FFFFF8",
+          "label": "Sun‑bleached white"
+        },
+        {
+          "hex": "#E7D8C9",
+          "label": "Coral/limestone beige"
+        },
+        {
+          "hex": "#7B6A58",
+          "label": "Weathered wood"
+        },
+        {
+          "hex": "#2A6F97",
+          "label": "Sea blue accent"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Traditional Architecture in Tabuk Province — Saudipedia",
+          "url": "https://saudipedia.com/en/article/3567/culture/cultural-affairs/traditional-architecture-in-tabuk-province"
+        }
+      ]
+    },
+    {
+      "pattern_code": "najdi_north",
+      "name_ar": "العمارة النجدية الشمالية",
+      "name_en": "Northern Najdi Architecture",
+      "regions_ar": "حائل، الجوف، الحدود الشمالية",
+      "climate_terrain_ar": "حار‑جاف داخلي",
+      "materials_ar": [
+        "لبن/طين",
+        "جص أبيض"
+      ],
+      "key_elements_ar": [
+        "فناء داخلي",
+        "شُرَف مسننة"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#D2B48C",
+          "label": "Tan sand"
+        },
+        {
+          "hex": "#EFE9DF",
+          "label": "Light plaster"
+        },
+        {
+          "hex": "#6E4B3A",
+          "label": "Timber brown"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Al‑Qishlah Palace — Saudipedia",
+          "url": "https://saudipedia.com/en/article/765/history/landmarks-and-monuments/al-qishlah-palace"
+        }
+      ]
+    },
+    {
+      "pattern_code": "madinah_urban",
+      "name_ar": "عمارة المدينة المنورة (الحضرية)",
+      "name_en": "Al‑Madinah Urban Architecture",
+      "regions_ar": "المدينة المنورة (المركز)",
+      "climate_terrain_ar": "حار‑جاف حضري",
+      "materials_ar": [
+        "حجر محلي",
+        "جص",
+        "خشب"
+      ],
+      "key_elements_ar": [
+        "رواشين/مشربيات",
+        "بوائك سوق"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#D4C2A8",
+          "label": "Earthy plaster"
+        },
+        {
+          "hex": "#6B4F3A",
+          "label": "Rawashin wood"
+        },
+        {
+          "hex": "#1F6D5A",
+          "label": "Green paint accents"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Historic Jeddah context — Saudipedia",
+          "url": "https://saudipedia.com/en/article/1344/history/landmarks-and-monuments/historic-jeddah"
+        },
+        {
+          "title": "Hejazi house distinction — Saudipedia",
+          "url": "https://saudipedia.com/en/article/2311/society/household-items/what-distinguishes-the-traditional-hejazi-house"
+        }
+      ]
+    },
+    {
+      "pattern_code": "madinah_rural",
+      "name_ar": "عمارة ريف المدينة",
+      "name_en": "Al‑Madinah Rural Architecture",
+      "regions_ar": "قرى وبساتين المدينة",
+      "climate_terrain_ar": "واحات/وادي؛ حار‑جاف",
+      "materials_ar": [
+        "طين/لبن",
+        "حجر وادي",
+        "جريد"
+      ],
+      "key_elements_ar": [
+        "أحواش وأسوار بساتين"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#9E7C55",
+          "label": "Mudbrick brown"
+        },
+        {
+          "hex": "#EFE7DC",
+          "label": "Plaster off‑white"
+        },
+        {
+          "hex": "#7A6A3A",
+          "label": "Palm timber"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Madinah Heritage District — Saudipedia",
+          "url": "https://saudipedia.com/en/article/818/history/landmarks-and-monuments/madinah-heritage-district"
+        }
+      ]
+    },
+    {
+      "pattern_code": "taif_arch",
+      "name_ar": "عمارة الطائف",
+      "name_en": "Taif Highlands Architecture",
+      "regions_ar": "الطائف",
+      "climate_terrain_ar": "جبلي معتدل",
+      "materials_ar": [
+        "حجر جبلي",
+        "جص",
+        "خشب رواشين"
+      ],
+      "key_elements_ar": [
+        "رواشين وزجاج ملوّن"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#F0ECE4",
+          "label": "Light plaster"
+        },
+        {
+          "hex": "#8D8070",
+          "label": "Stone base"
+        },
+        {
+          "hex": "#6B4F3A",
+          "label": "Wood"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Shubra Palace — Saudipedia",
+          "url": "https://saudipedia.com/en/article/850/history/landmarks-and-monuments/the-historical-shubra-palace"
+        }
+      ]
+    },
+    {
+      "pattern_code": "sarawat_mountains",
+      "name_ar": "عمارة جبال السروات",
+      "name_en": "Sarawat Mountain Architecture",
+      "regions_ar": "السروات (الباحة/عسير)",
+      "climate_terrain_ar": "جبال عالية؛ أمطار",
+      "materials_ar": [
+        "حجر جبلي",
+        "طين/جص"
+      ],
+      "key_elements_ar": [
+        "أبراج حجرية",
+        "نوافذ صغيرة"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#4F4A45",
+          "label": "Dark mountain stone"
+        },
+        {
+          "hex": "#F5F5F5",
+          "label": "White plaster bands"
+        },
+        {
+          "hex": "#8A6E4A",
+          "label": "Earth brown"
+        },
+        {
+          "hex": "#2E7D32",
+          "label": "Vegetation green"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Sarawat ADG (DASC)",
+          "url": "https://architsaudi.dasc.gov.sa/sites/default/files/design-direrctions/sarawat-mountains-architecture/AIDG_SarawatMountains.pdf"
+        },
+        {
+          "title": "Sarawat Low-Rise Handbook (DASC)",
+          "url": "https://architsaudi.dasc.gov.sa/sites/default/files/design-direrctions/sarawat-mountains-architecture/ADG%20Low-Rise%20Handbook_Sarawat%20Mountains.pdf"
+        }
+      ]
+    },
+    {
+      "pattern_code": "tihamah_coast",
+      "name_ar": "عمارة ساحل تهامة",
+      "name_en": "Tihamah Coast Architecture",
+      "regions_ar": "ساحل تهامة (جازان)",
+      "climate_terrain_ar": "حار‑رطب ساحلي",
+      "materials_ar": [
+        "بيت الأِشَّة/عريش",
+        "طين/حجر أساس"
+      ],
+      "key_elements_ar": [
+        "رواق مفتوح",
+        "تهوية طبيعية"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#C2A977",
+          "label": "Palm‑thatch tan"
+        },
+        {
+          "hex": "#F7F7F2",
+          "label": "Gypsum white"
+        },
+        {
+          "hex": "#468FAF",
+          "label": "Sea blue"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "What is Al‑Esha House? — Saudipedia",
+          "url": "https://saudipedia.com/en/article/4134/society/household-items/what-is-al-esha-house-in-saudi-arabia"
+        }
+      ]
+    },
+    {
+      "pattern_code": "tihamah_foothills",
+      "name_ar": "عمارة سفوح تهامة",
+      "name_en": "Tihamah Foothills Architecture",
+      "regions_ar": "سفوح تهامة",
+      "climate_terrain_ar": "انتقالية بين الساحل والجبل",
+      "materials_ar": [
+        "حجر وادي",
+        "طين"
+      ],
+      "key_elements_ar": [
+        "منازل متدرجة",
+        "رِقاف"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#6D6A6A",
+          "label": "Stone grey"
+        },
+        {
+          "hex": "#8A6E4A",
+          "label": "Earth brown"
+        },
+        {
+          "hex": "#F2EFEA",
+          "label": "Plaster off‑white"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Traditional styles in the Southern Region — Saudipedia",
+          "url": "https://saudipedia.com/en/article/2310/society/household-items/list-of-the-traditional-architectural-styles-in-the-southern-region"
+        }
+      ]
+    },
+    {
+      "pattern_code": "abha_highlands",
+      "name_ar": "عمارة مرتفعات أبها",
+      "name_en": "Abha Highlands Architecture",
+      "regions_ar": "أبها",
+      "climate_terrain_ar": "جبلي/ضبابي",
+      "materials_ar": [
+        "حجر محلي",
+        "طين",
+        "رِقاف"
+      ],
+      "key_elements_ar": [
+        "كتل حجرية",
+        "نوافذ صغيرة"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#5A5A5A",
+          "label": "Stone grey"
+        },
+        {
+          "hex": "#F5F5F5",
+          "label": "White bands"
+        },
+        {
+          "hex": "#D32F2F",
+          "label": "Qatt red accent"
+        },
+        {
+          "hex": "#FBC02D",
+          "label": "Qatt yellow accent"
+        },
+        {
+          "hex": "#388E3C",
+          "label": "Qatt green accent"
+        },
+        {
+          "hex": "#1976D2",
+          "label": "Qatt blue accent"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Traditional styles in the Southern Region — Saudipedia",
+          "url": "https://saudipedia.com/en/article/2310/society/household-items/list-of-the-traditional-architectural-styles-in-the-southern-region"
+        },
+        {
+          "title": "Al‑Qatt Al‑Asiri — UNESCO ICH",
+          "url": "https://ich.unesco.org/en/RL/al-qatt-al-asiri-female-traditional-interior-wall-decoration-in-asir-saudi-arabia-01261"
+        }
+      ]
+    },
+    {
+      "pattern_code": "bisha_desert",
+      "name_ar": "عمارة صحراء بيشة",
+      "name_en": "Bisha Desert Architecture",
+      "regions_ar": "بيشة",
+      "climate_terrain_ar": "حار‑جاف وادٍ",
+      "materials_ar": [
+        "لبن/طين",
+        "جريد",
+        "حجر وادي"
+      ],
+      "key_elements_ar": [
+        "فناء داخلي",
+        "أسقف جريد"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#D2B48C",
+          "label": "Tan sand"
+        },
+        {
+          "hex": "#B08D57",
+          "label": "Desert brown"
+        },
+        {
+          "hex": "#F2EFEA",
+          "label": "Plaster white"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Bishah Governorate — Saudipedia",
+          "url": "https://saudipedia.com/en/article/1159/geography/provinces-and-cities/bishah-governorate"
+        }
+      ]
+    },
+    {
+      "pattern_code": "farasan_islands",
+      "name_ar": "عمارة جزر فرسان",
+      "name_en": "Farasan Islands Architecture",
+      "regions_ar": "جزر فرسان",
+      "climate_terrain_ar": "ساحلي بحري",
+      "materials_ar": [
+        "حجر مرجاني",
+        "جبس زخرفي"
+      ],
+      "key_elements_ar": [
+        "أقواس/زخارف",
+        "زجاج ملوّن"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#FFFFFF",
+          "label": "White plaster"
+        },
+        {
+          "hex": "#EDE8E0",
+          "label": "Stucco grey"
+        },
+        {
+          "hex": "#0E7490",
+          "label": "Sea blue"
+        },
+        {
+          "hex": "#6B4F3A",
+          "label": "Wood"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "House of Al‑Rifai — Saudipedia",
+          "url": "https://saudipedia.com/en/article/7282/history/landmarks-and-monuments/house-of-al-rifai"
+        }
+      ]
+    },
+    {
+      "pattern_code": "najran_arch",
+      "name_ar": "عمارة نجران",
+      "name_en": "Najran Architecture",
+      "regions_ar": "نجران",
+      "climate_terrain_ar": "حار‑جاف واحات",
+      "materials_ar": [
+        "لبن/طين",
+        "حجر سفلي"
+      ],
+      "key_elements_ar": [
+        "أبراج طينية",
+        "زخارف جصية"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#A56B3F",
+          "label": "Reddish mudbrick"
+        },
+        {
+          "hex": "#EFE6DD",
+          "label": "Plaster"
+        },
+        {
+          "hex": "#6E4B3A",
+          "label": "Timber"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Najran ADG (DASC)",
+          "url": "https://architsaudi.dasc.gov.sa/sites/default/files/design-direrctions/najran-architecture/250523_Najran.pdf"
+        }
+      ]
+    },
+    {
+      "pattern_code": "qatif_arch",
+      "name_ar": "عمارة القطيف",
+      "name_en": "Al‑Qatif Architecture",
+      "regions_ar": "القطيف",
+      "climate_terrain_ar": "حار‑رطب واحات ساحلية",
+      "materials_ar": [
+        "حجر جيري/طين",
+        "جريد"
+      ],
+      "key_elements_ar": [
+        "أقواس ورواشين",
+        "أفنية"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#F5F3EC",
+          "label": "Plaster white"
+        },
+        {
+          "hex": "#CCB68A",
+          "label": "Oasis sand"
+        },
+        {
+          "hex": "#7A6A3A",
+          "label": "Palm wood"
+        },
+        {
+          "hex": "#2E6F6A",
+          "label": "Teal (doors/screens)"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Al Qatif Oasis ADG (DASC)",
+          "url": "https://architsaudi.dasc.gov.sa/sites/default/files/design-direrctions/qatif-aasis-architecture/250523_Qatif%20Oasis.pdf"
+        },
+        {
+          "title": "Al Qatif Oasis Low-Rise (AR)",
+          "url": "https://architsaudi.dasc.gov.sa/sites/default/files/design-direrctions/qatif-aasis-architecture/250523_Low-Rise%20Handbook_Al%20Qatif%20Oasis%20ARABIC.pdf"
+        }
+      ]
+    },
+    {
+      "pattern_code": "al_ahsa_oasis",
+      "name_ar": "عمارة واحة الأحساء",
+      "name_en": "Al‑Ahsa Oasis Architecture",
+      "regions_ar": "الأحساء",
+      "climate_terrain_ar": "حار‑رطب أكبر واحة",
+      "materials_ar": [
+        "لبن/طين",
+        "حجر جيري",
+        "جريد"
+      ],
+      "key_elements_ar": [
+        "أروقة ظلّ",
+        "أفنية"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#F2EFEA",
+          "label": "Plaster white"
+        },
+        {
+          "hex": "#C9B08A",
+          "label": "Sand/mud"
+        },
+        {
+          "hex": "#7A6A3A",
+          "label": "Palm wood"
+        },
+        {
+          "hex": "#3A7CA5",
+          "label": "Water canals blue"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        },
+        {
+          "title": "Al‑Ahsa Oasis — UNESCO",
+          "url": "https://whc.unesco.org/en/list/1563/"
+        }
+      ]
+    },
+    {
+      "pattern_code": "najdi_east",
+      "name_ar": "العمارة النجدية الشرقية",
+      "name_en": "Eastern Najdi Architecture",
+      "regions_ar": "شرق نجد (الخرج/الدلم)",
+      "climate_terrain_ar": "حار‑جاف انتقالي",
+      "materials_ar": [
+        "لبن/طين",
+        "حجر محلي"
+      ],
+      "key_elements_ar": [
+        "فناء داخلي",
+        "شُرَف/فُرَج"
+      ],
+      "development_styles_ar": {
+        "traditional": "",
+        "transitional": "",
+        "contemporary": ""
+      },
+      "public_realm_ar": "",
+      "signage_guidelines_ar": "",
+      "color_palette_hex": [
+        {
+          "hex": "#D3B992",
+          "label": "Warm sand"
+        },
+        {
+          "hex": "#F6F1E8",
+          "label": "Plaster white"
+        },
+        {
+          "hex": "#6B4F3A",
+          "label": "Wood brown"
+        }
+      ],
+      "facade_opening_ratio_hint": "",
+      "height_control_hint": "",
+      "program_fit_ar": [],
+      "precedents": [],
+      "sources": [
+        {
+          "title": "King Salman Charter — Official",
+          "url": "https://archdesign.moc.gov.sa/en/kscau"
+        },
+        {
+          "title": "Saudi Architecture Characters Map — Saudipedia (19 styles)",
+          "url": "https://saudipedia.com/en/article/4780/culture/visual-arts/saudi-architecture-characters-map"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+rq>=1.16
+redis>=5.0
+requests>=2.31
+./shared

@@ -1,0 +1,11 @@
+Collecting sqlalchemy
+  Downloading sqlalchemy-2.0.45-cp314-cp314-win_amd64.whl.metadata (9.8 kB)
+Collecting greenlet>=1 (from sqlalchemy)
+  Downloading greenlet-3.3.0-cp314-cp314-win_amd64.whl.metadata (4.2 kB)
+Requirement already satisfied: typing-extensions>=4.6.0 in c:\users\user\desktop\info projects\demo\demo\.venv\lib\site-packages (from sqlalchemy) (4.15.0)
+Downloading sqlalchemy-2.0.45-cp314-cp314-win_amd64.whl (2.1 MB)
+   ---------------------------------------- 2.1/2.1 MB 6.7 MB/s  0:00:00
+Downloading greenlet-3.3.0-cp314-cp314-win_amd64.whl (305 kB)
+Installing collected packages: greenlet, sqlalchemy
+
+Successfully installed greenlet-3.3.0 sqlalchemy-2.0.45

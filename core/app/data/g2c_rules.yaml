@@ -1,0 +1,71 @@
+version: 0.2
+ruleset:
+  id: east_coast_draft
+  version: "0.1.0"
+  sources:
+    - title: "ADG Low-Rise Building Handbook — East Coast (Arabic)"
+      url: "https://architsaudi.dasc.gov.sa/sites/default/files/2025-12/250519_Low-Rise%20Handbook_East%20Coast%20ARABIC.pdf"
+      published: "2025-12"
+      note: "Secondary colors <= 10% of facade area."
+rules:
+
+  - id: east.palette.secondary_max_10pct
+    title: "Secondary facade colors limited to 10% (East Coast low-rise)"
+    weight: 0.10
+    type: max
+    params:
+      feature: "project.palette_secondary_pct"
+      max: 10
+      fail_status: "fail"
+      reason_fail: "Secondary colors exceed 10% of facade area per East Coast low-rise handbook."
+      recommend_fail: "Reduce secondary color usage to accents <=10% of the facade."
+      reason_missing: "No palette_secondary_pct provided to verify the 10% limit."
+      recommend_missing: "Provide an estimated secondary-color share (%) based on elevations/material takeoff."
+    refs:
+      - doc: "250519_Low-Rise Handbook_East Coast ARABIC.pdf"
+        url: "https://architsaudi.dasc.gov.sa/sites/default/files/2025-12/250519_Low-Rise%20Handbook_East%20Coast%20ARABIC.pdf"
+        note: "الألوان الفرعية بنسبة لا تتجاوز 10% من مساحة الواجهة"
+  - id: wwr_range
+    title: "Facade opening ratio (WWR) within guideline hint"
+    weight: 0.30
+    type: hint_between
+    params:
+      feature: "wwr_pct"
+      hint: "facade_opening_ratio_hint"
+      fail_status: "fail"
+      reason_fail: "WWR is outside the suggested range for this pattern/region."
+      recommend_fail: "Adjust window sizes/openings to bring WWR within the pattern hint range."
+      reason_pass: "WWR is within the suggested range."
+  - id: height_control
+    title: "Height control within guideline hint"
+    weight: 0.20
+    type: hint_between
+    params:
+      feature: "project.height_m"
+      hint: "height_control_hint"
+      fail_status: "fail"
+      reason_fail: "Building height is outside the suggested height control hint."
+      recommend_fail: "Adjust overall height/massing to comply with the height control hint."
+      reason_pass: "Height is within the suggested hint."
+  - id: palette_alignment
+    title: "Color palette alignment with pattern palette"
+    weight: 0.20
+    type: palette_overlap
+    params:
+      feature: "palette_hex"
+      target: "color_palette_hex"
+      min_ratio: 0.25
+      fail_status: "warn"
+      reason_fail: "Detected palette has low overlap with the recommended pattern palette."
+      recommend_fail: "Consider aligning façade finishes/colors with the pattern palette."
+  - id: identity_elements
+    title: "Presence of identity façade elements"
+    weight: 0.30
+    type: contains_any
+    params:
+      feature: "vision.elements"
+      keys_any: ["roshan", "mashrabiya", "arcade", "screen", "brise_soleil"]
+      min_total: 1
+      fail_status: "warn"
+      reason_fail: "Key identity elements were not detected."
+      recommend_fail: "Consider integrating appropriate authentic identity elements in façade articulation."
